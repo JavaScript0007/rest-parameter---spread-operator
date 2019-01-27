@@ -1,0 +1,12 @@
+# Rest parameter and spread operator
+
+### To run this app
+clone it :
+```
+git@github.com:JavaScript0007/rest-parameter---spread-operator.git
+```
+
+and run a command in your terminal
+```
+node index.js
+```
